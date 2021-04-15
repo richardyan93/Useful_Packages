@@ -1,0 +1,7 @@
+1. patchify
+Divide n-dim images into overlapping patches
+https://github.com/dovahcrow/patchify.py.git
+
+2. tifffile
+Read/write n-dim tiff and other image formats
+https://github.com/cgohlke/tifffile.git
