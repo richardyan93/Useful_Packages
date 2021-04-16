@@ -5,3 +5,8 @@ https://github.com/dovahcrow/patchify.py.git
 2. tifffile
 Read/write n-dim tiff and other image formats
 https://github.com/cgohlke/tifffile.git
+
+3. 3D Data augmentation
+Simple 3D (Depth) data augmentation
+https://github.com/ZFTurbo/volumentations
+
